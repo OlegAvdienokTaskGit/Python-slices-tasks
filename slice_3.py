@@ -4,5 +4,4 @@
 
 string = "A byte of Python"
 
-s = string[:5]
-print(s)
+print(string[:5])
